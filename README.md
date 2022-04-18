@@ -11,6 +11,19 @@
 * GPU : Tesla P100-PCIE
 
 
+## To run
+
+```
+Step 1 : Go to any of the mentioned directories (MNIST or FashionMNIST or CIFAR-10).
+```
+
+```
+Step 2 : Then run the main inynb file.
+```
+
+```
+Step 3 : Then run the DeadNeurons ipynb file.
+```
 
 
 
