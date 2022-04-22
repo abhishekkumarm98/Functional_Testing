@@ -18,7 +18,7 @@ Step 1 : Go to any of the mentioned directories (MNIST or FashionMNIST or CIFAR-
 ```
 
 ```
-Step 2 : Then run the main inynb file.
+Step 2 : Then run the main ipynb file.
 ```
 
 ```
