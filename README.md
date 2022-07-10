@@ -1,5 +1,5 @@
 # Functional_Testing
-# EDCC 2022 : Functional Testing of DNN Accelerators
+# MDPI 2022 : Functional Testing of DNN Accelerators
 
 ## Envrionment
 
