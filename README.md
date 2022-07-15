@@ -27,5 +27,3 @@ Step 3 : Then run the DeadNeurons ipynb file.
 
 
 
-### To do
-More files will be uploaded very soon.
