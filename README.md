@@ -18,11 +18,23 @@ Step 1 : Go to any of the mentioned directories (MNIST or FashionMNIST or CIFAR-
 ```
 
 ```
-Step 2 : Then run the main ipynb file.
+Step 2 : Then run the all ipynb files to get the results.
 ```
 
-```
-Step 3 : Then run the DeadNeurons ipynb file.
+## Citation
+
+If you find our work useful, please cite our paper.
+``` 
+@article{mishra2022built,
+  title={Built-In Functional Testing of Analog In-Memory Accelerators for Deep Neural Networks},
+  author={Mishra, Abhishek Kumar and Das, Anup Kumar and Kandasamy, Nagarajan},
+  journal={Electronics},
+  volume={11},
+  number={16},
+  pages={2592},
+  year={2022},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
 ```
 
 
